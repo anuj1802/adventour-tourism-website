@@ -6,11 +6,11 @@ Welcome to Adventour, a travel website crafted to help you to embark on extraord
 Adventour is an open-source project; we welcome you to explore its codebase and contributeirrespective of whether you're a seasoned developer or just a beginner. Adventour serves as a valuable learning tool to hone your skills and expand your creativity <br />
 
 -**Unzip and Explore:** Download the provided `.zip file`, extract the contents, and open `index.html` in the web browser of choice to experience Adventour firsthand.
--**Live Demo:** Alternatively, get a glimpse of Adventour in action by visiting our live demo at my [Github Repository](https://github.com/iamit010/Adventour-tourism-website). <br/>
+-**Live Demo:** Alternatively, get a glimpse of Adventour in action by visiting our live demo at my [Github Repository](https://github.com/anuj1802/adventour-tourism-website). <br/>
 
 <div align="center">
   <br />
-  <a href="https://iamit010.github.io/adventour-tourism-website/"><strong>➥ Live Demo</strong></a>
+  <a href=>https://github.com/anuj1802/adventour-tourism-website<strong>➥ Live Demo</strong></a>
 </div>
 
 ## Screeshot
